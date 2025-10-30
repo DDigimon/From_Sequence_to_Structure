@@ -18,6 +18,6 @@ The following are modified from nanoGPT
 
 4. eval.py for the numerical results and vis.ipynb for the visualization results (diamond example)
 
-contact: daipigeon[at]gmail
+contact: daipigeon1[at]gmail
 
 (I’ll do my best to address any issues, though I may be busy at times. Please note that I won’t respond to questions related to paths or environment setups.)
