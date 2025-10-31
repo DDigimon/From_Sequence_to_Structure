@@ -1,6 +1,6 @@
 # From_Sequence_to_Structure
 
-[From sequence to structure: Uncovering substructure reasoning in transformers](https://arxiv.org/abs/2507.10435)
+[From sequence to structure: Uncovering substructure reasoning in transformers](https://arxiv.org/abs/2507.10435) (Neurips2025)
 
 The code is modified from https://github.com/karpathy/nanoGPT, please refer their evnviroment setting.
 
